@@ -1,7 +1,7 @@
 ---
 title: Jianmin Guo
 role: Ph.D candidate @ Tsinghua University.
-avatar_filename: cimg6760.jpg
+avatar_filename: ""
 organizations:
   - name: Stanford University
     url: ""
@@ -10,22 +10,13 @@ authors:
   - admin
 bio: "My research interests are "
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deep learning testing
+  - adversarial testing of recurrent neural networks
+  - audio adversarial attacks
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: "#contact"
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=CUxEb1YAAAAJ&hl=zh-CN
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -42,4 +33,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Jianmin Guo (郭建敏). I am a Ph.D. candidate at School of Software Engineering, Tsinghua University, Beijing, China. I received the BS degree in software engineering from Beijing University of Posts and Telecommunications, Beijing, China, in 2017. My research interests are software testing, mainly focusing on deep learning testing, adversarial testing of recurrent neural networks and audio adversarial attacks, etc.
