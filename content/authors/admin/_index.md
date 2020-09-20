@@ -10,8 +10,8 @@ bio: My research interests are  deep learning testing, adversarial testing of
   recurrent neural networks and audio adversarial attacks
 interests:
   - Deep learning testing
-  - adversarial testing of recurrent neural networks
-  - audio adversarial attacks
+  - Adversarial testing of recurrent neural networks
+  - Audio adversarial attacks
 social:
   - icon: google-scholar
     icon_pack: ai
