@@ -1,12 +1,13 @@
 ---
+title: Jianmin Guo
+role: Ph.D candidate @ Tsinghua University.
+avatar_filename: cimg6760.jpg
 organizations:
   - name: Stanford University
     url: ""
 superuser: true
 authors:
   - admin
-title: Jianmin Guo
-role: Ph.D candidate @ Tsinghua University.
 bio: "My research interests are "
 interests:
   - Artificial Intelligence
