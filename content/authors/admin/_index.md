@@ -8,7 +8,8 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: "My research interests are "
+bio: My research interests are  deep learning testing, adversarial testing of
+  recurrent neural networks and audio adversarial attacks
 interests:
   - Deep learning testing
   - adversarial testing of recurrent neural networks
