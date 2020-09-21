@@ -1,7 +1,7 @@
 ---
 title: Jianmin Guo
 role: Ph.D candidate @ Tsinghua University.
-avatar_filename: cimg6760.jpg
+avatar_filename: avatar.jpg
 organizations: []
 superuser: true
 authors:
