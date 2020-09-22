@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Preprints"
-  url = "#projects"
+  url = "#preprints"
   weight = 20
   
  [[main]]

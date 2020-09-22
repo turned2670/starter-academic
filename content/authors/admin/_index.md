@@ -1,8 +1,8 @@
 ---
 title: Jianmin Guo
-role: Ph.D candidate @ Tsinghua University.
+role: Ph.D candidate
 avatar_filename: avatar.jpg
-organizations: []
+organizations: [Tsinghua University]
 superuser: true
 authors:
   - admin
@@ -20,10 +20,10 @@ education:
   courses:
     - course: PhD in Software Engineering
       institution: Tsinghua University
-      year: ""
+      year: "2017-Present"
     - course: BSc in Software Engineering
       institution: Beijing University of Posts and Telecommunications
-      year: ""
+      year: "2013-2017"
 email: ""
 user_groups:
   - Researchers
