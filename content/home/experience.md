@@ -18,27 +18,26 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research assistant"
+  company = "Nanyang Technological University (Supervised by Yang Liu)"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  location = "Singapore"
+  date_start = "2017-01-05"
+  date_end = "2017-05-24"
+  description = """Extract and assess program metrics of tested software programs and identify vulnerability-prone functions and CVEs, assisted with the fuzzing tools.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Ph.D. candidate"
+  company = "Tsinghua University (Supervised by Yu Jiang and Jiaguang Sun)"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Beijing"
+  date_start = "2017-09-01"
+  date_end = "Present"
+  description = """
+  *Design the testing framework RNN-Test for Recurrent Neural Networks (RNN), which focuses on sequential tasks like language modelling, speech recognition, etc.  
+  *Design the deep learning testing framework DLFuzz, which combined the knowledge of fuzz testing and could generate more adversarial input images with higher neuron coverage w.r.t. DeepXplore (SOSP’17).
+  """
+  
 
 +++
