@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Singapore"
   date_start = "2017-01-05"
   date_end = "2017-05-24"
-  description = """Extract and assess program metrics of tested software programs and identify vulnerability-prone functions and CVEs, assisted with the fuzzing tools.
+  description = """Extract and assess program metrics of tested software programs to identify vulnerability-prone functions and CVEs, assisted with the fuzzing tools.
   """
 
 [[experience]]
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Beijing"
   date_start = "2017-09-01"
-  date_end = "Present"
+  date_end = ""
   description = """
   * Design the testing framework RNN-Test for Recurrent Neural Networks (RNN), which focuses on sequential tasks like language modelling, speech recognition, etc.  
   * Design the deep learning testing framework DLFuzz, which combined the knowledge of fuzz testing and could generate more adversarial input images with higher neuron coverage w.r.t. DeepXplore (SOSP’17).
