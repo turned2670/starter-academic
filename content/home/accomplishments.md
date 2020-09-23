@@ -22,9 +22,9 @@ date_format = "Jan 2006"
   title = "Reviewer"    
   date_start = "2018-03-01"
   date_end = ""
-  description = |- 
+  description = """   
   * 软件学报 
-  * American Journal of Software Engineering and Applications (AJSEA)
+  * American Journal of Software Engineering and Applications (AJSEA)"""
  
 
 +++
