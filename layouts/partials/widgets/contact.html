@@ -90,53 +90,7 @@
         </li>
       {{ end }}
 
-      {{ with $data.directions }}
-      <li>
-        <i class="fa-li fas fa-compass fa-2x" aria-hidden="true"></i>
-        <span>{{ . | markdownify | emojify }}</span>
-      </li>
-      {{ end }}
-
-      {{ with $data.office_hours }}
-      <li>
-        <i class="fa-li fas fa-clock fa-2x" aria-hidden="true"></i>
-        <span>
-          {{- if not (reflect.IsSlice .)}}{{/* Support legacy string format. */}}
-            {{- . | markdownify | emojify -}}
-          {{else}}
-            {{- delimit . "<br>" | markdownify | emojify -}}
-          {{end -}}
-        </span>
-      </li>
-      {{ end }}
-
-      {{ with $data.appointment_url }}
-      <li>
-        <i class="fa-li fas fa-calendar-check fa-2x" aria-hidden="true"></i>
-        <a href="{{ . }}" target="_blank" rel="noopener">{{ i18n "book_appointment" | default "Book an appointment" }}</a>
-      </li>
-      {{ end }}
-
-      {{/* Contact links. */}}
-      {{ range $data.contact_links }}
-      {{ $pack := or .icon_pack "fas" }}
-      {{ $pack_prefix := $pack }}
-      {{ if in (slice "fab" "fas" "far" "fal") $pack }}
-        {{ $pack_prefix = "fa" }}
-      {{ end }}
-      {{ $link := .link }}
-      {{ $scheme := (urls.Parse $link).Scheme }}
-      {{ $target := "" }}
-      {{ if not $scheme }}
-        {{ $link = .link | relLangURL }}
-      {{ else if in (slice "http" "https") $scheme }}
-        {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
-      {{ end }}
-      <li>
-        <i class="fa-li {{ $pack }} {{ $pack_prefix }}-{{ .icon }} fa-2x" aria-hidden="true"></i>
-        <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>{{.name|markdownify|emojify|safeHTML}}</a>
-      </li>
-      {{ end }}
+      
 
     </ul>
 
