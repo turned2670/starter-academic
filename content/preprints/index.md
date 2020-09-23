@@ -23,7 +23,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: While huge efforts have been investigated in the adversarial testing of convolutional neural networks (CNN), the testing for recurrent neural networks (RNN) is still limited to the classification context and leave threats for vast sequential application domains. In this work, we propose an adversarial testing framework RNN-Test....
+abstract: 
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
