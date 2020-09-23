@@ -35,8 +35,8 @@ date_format = "Jan 2006"
   date_start = "2017-09-01"
   date_end = "Present"
   description = """
-  *Design the testing framework RNN-Test for Recurrent Neural Networks (RNN), which focuses on sequential tasks like language modelling, speech recognition, etc.  
-  *Design the deep learning testing framework DLFuzz, which combined the knowledge of fuzz testing and could generate more adversarial input images with higher neuron coverage w.r.t. DeepXplore (SOSP’17).
+  * Design the testing framework RNN-Test for Recurrent Neural Networks (RNN), which focuses on sequential tasks like language modelling, speech recognition, etc.  
+  * Design the deep learning testing framework DLFuzz, which combined the knowledge of fuzz testing and could generate more adversarial input images with higher neuron coverage w.r.t. DeepXplore (SOSP’17).
   """
   
 
