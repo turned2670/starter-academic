@@ -1,5 +1,5 @@
 ---
-title: "Rnn-test: Adversarial testing framework for recurrent neural network systems"
+title: "RNN-Test: Adversarial testing framework for recurrent neural network systems"
 authors:
 - admin
 - Yue Zhao
