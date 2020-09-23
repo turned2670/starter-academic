@@ -9,7 +9,7 @@ avatar_filename: avatar.jpg
 # Organizations/Affiliations to show in About widget
 organizations: 
 - name: Tsinghua University
- url: https://www.tsinghua.edu.cn/
+  url: ""
 
 # Is this the primary user of the site?
 superuser: true
