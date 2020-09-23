@@ -2,7 +2,9 @@
 title: Jianmin Guo
 role: Ph.D candidate
 avatar_filename: avatar.jpg
-organizations: [Tsinghua University]
+organizations: 
+-name: Tsinghua University
+ url: ""
 superuser: true
 authors:
   - admin
