@@ -19,8 +19,8 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Research assistant"
-  company = "Nanyang Technological University (Supervised by Yang Liu)"
-  company_url = ""
+  company = "Nanyang Technological University"
+  company_url = "(Supervised by Yang Liu)"
   location = "Singapore"
   date_start = "2017-01-05"
   date_end = "2017-05-24"
@@ -29,12 +29,12 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Ph.D. candidate"
-  company = "Tsinghua University (Supervised by Yu Jiang and Jiaguang Sun)"
-  company_url = ""
+  company = "Tsinghua University"
+  company_url = "(Supervised by Yu Jiang and Jiaguang Sun)"
   location = "Beijing"
   date_start = "2017-09-01"
   date_end = ""
-  description = """    
+  description = """Core works include:    
   * Design the testing framework RNN-Test for Recurrent Neural Networks (RNN), which focuses on sequential tasks like language modelling, speech recognition, etc.  
   * Design the deep learning testing framework DLFuzz, which combined the knowledge of fuzz testing and could generate more adversarial input images with higher neuron coverage w.r.t. DeepXplore (SOSP’17)."""
   
