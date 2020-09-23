@@ -23,7 +23,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: 
+abstract: First step towards adversarial testing for recurrent neural networks (RNN) of majority sequential tasks
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
