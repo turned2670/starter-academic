@@ -1,16 +1,13 @@
 ---
-title: "Dlfuzz: Differential fuzzing testing of deep learning systems"
+title: "An example conference paper"
 authors:
 - admin
-- Yu Jiang
-- Yue Zhao
-- Quan Chen
-- Jiaguang Sun
-date: "2018-11-18T00:00:00Z"
+- Robert Ford
+date: "2013-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "018-11-18T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -32,23 +29,23 @@ tags:
 featured: true
 
 links:
-#- name: Custom Link
-#  url: http://example.org
-url_pdf: https://dl.acm.org/doi/abs/10.1145/3236024.3264835
-url_code: 'https://github.com/turned2670/DLFuzz'
-#url_dataset: '#'
-#url_poster: '#'
-#url_project: ''
-#url_slides: ''
-#url_source: '#'
-#url_video: '#'
+- name: Custom Link
+  url: http://example.org
+url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_code: '#'
+url_dataset: '#'
+url_poster: '#'
+url_project: ''
+url_slides: ''
+url_source: '#'
+url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-#  focal_point: ""
-#  preview_only: false
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: ""
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
