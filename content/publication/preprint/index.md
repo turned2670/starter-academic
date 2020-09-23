@@ -1,12 +1,17 @@
 ---
-title: "An example preprint / working paper"
+title: "Rnn-test: Adversarial testing framework for recurrent neural network systems"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+- Yue Zhao
+- Xueying Han
+- Quan Zhang
+- Yu Jiang
+- Jiaguang Sun
+date: "2019-11-11"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,26 +23,26 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: While huge efforts have been investigated in the adversarial testing of convolutional neural networks (CNN), the testing for recurrent neural networks (RNN) is still limited to the classification context and leave threats for vast sequential application domains. In this work, we propose a generic adversarial testing framework RNN-Test. First, based on the distinctive structure of RNNs, we define three novel coverage metrics to measure the testing completeness and guide the generation of adversarial inputs. Second, we propose the state inconsistency orientation to generate the perturbations by maximizing the inconsistency of the hidden states of RNN cells. Finally, we combine orientations with coverage guidance to produce minute perturbations. Given the RNN model and the sequential inputs, RNN-Test will modify one character or one word out of the whole inputs based on the perturbations obtained, so as to lead the RNN to produce wrong outputs. For evaluation, we apply RNN-Test on two models of common RNN structure - the PTB language model and the spell checker model. RNN-Test efficiently reduces the performance of the PTB language model by increasing its test perplexity by 58.11%, and finds numbers of incorrect behaviors of the spell checker model with the success rate of 73.44% on average. With our customization, RNN-Test using the redefined neuron coverage as guidance could achieve 35.71% higher perplexity than original strategy of DeepXplore.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+#- name: Custom Link
+#  url: http://example.org
+url_pdf: https://arxiv.org/abs/1911.06155
+#url_code: '#'
+#url_dataset: '#'
+#url_poster: '#'
+#url_project: ''
+#url_slides: ''
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
