@@ -32,9 +32,12 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: google-scholar
-    icon_pack: ai
+  - icon: graduation-cap
+    icon_pack: fas
     link: https://scholar.google.com/citations?user=CUxEb1YAAAAJ&hl=zh-CN
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/turned2670
 
 # Education to show in About widget
 education:
