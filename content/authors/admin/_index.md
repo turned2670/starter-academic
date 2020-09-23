@@ -4,7 +4,7 @@ role: Ph.D candidate
 avatar_filename: avatar.jpg
 organizations: 
 -name: Tsinghua University
- url: ""
+ url: https://www.tsinghua.edu.cn/
 superuser: true
 authors:
   - admin
