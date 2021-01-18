@@ -1,12 +1,10 @@
 ---
-title: "RNN-Test: Adversarial testing framework for recurrent neural network systems"
+title: "RNN-Test: Towards Adversarial Testing for Recurrent Neural Network Systems"
 authors:
 - admin
 - Yue Zhao
-- Xueying Han
 - Quan Zhang
 - Yu Jiang
-- Jiaguang Sun
 date: "2019-11-11"
 doi: ""
 
@@ -23,7 +21,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: First step towards adversarial testing for recurrent neural networks (RNN) of majority sequential tasks
+abstract: The first step towards adversarial testing for majority sequential domains of recurrent neural networks (RNN), referred to as tasks of sequential outputs without class labels
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
