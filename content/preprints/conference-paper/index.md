@@ -21,7 +21,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: The first step towards adversarial testing for majority sequential domains of recurrent neural networks (RNN), referred to as tasks of sequential outputs without class labels
+abstract: The first step towards adversarial testing for majority sequential domains of recurrent neural networks (RNN), i.e. tasks of sequential outputs without class labels
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
