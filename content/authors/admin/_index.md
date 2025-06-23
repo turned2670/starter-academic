@@ -3,12 +3,12 @@
 title: Jianmin Guo
 
 # Role/position/tagline
-role: Ph.D candidate
+role: Senior Research Engineer
 avatar_filename: avatar.jpg
 
 # Organizations/Affiliations to show in About widget
 organizations: 
-- name: Tsinghua University
+- name: 2012 Lab, Huawei Technologies Co., Ltd.
   url: ""
 
 # Is this the primary user of the site?
@@ -23,9 +23,10 @@ bio: My research interests are  deep learning testing, adversarial testing of
 
 # Interests to show in About widget
 interests:
-  - Deep learning testing
-  - Adversarial testing of recurrent neural networks
-  - Audio adversarial attacks
+  - AI & LLM security
+    - Adversarial robustness
+    - Safety assessment
+    - content moderation
   
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,7 +45,7 @@ education:
   courses:
     - course: PhD in Software Engineering
       institution: Tsinghua University
-      year: "2017-Present"
+      year: "2017-2022"
     - course: BSc in Software Engineering
       institution: Beijing University of Posts and Telecommunications
       year: "2013-2017"
@@ -57,4 +58,4 @@ email: ""
 user_groups:
   - Researchers
 ---
-My name is Jianmin Guo (郭建敏). I am a Ph.D. candidate at School of Software Engineering, Tsinghua University, Beijing, China. I received the BS degree in software engineering from Beijing University of Posts and Telecommunications, Beijing, China, in 2017. My research interests are software testing, mainly focusing on deep learning testing, adversarial testing of recurrent neural networks and audio adversarial attacks, etc.
+My name is Jianmin Guo (郭建敏). I am a senior research engineer of 2012 Lab, Huawei in Beijing, focusing on AI/LLM security research and its applications, such as adversarial robustness, safety assessment and content moderation, etc. I obtained my Ph.D. degree at School of Software, Tsinghua University in 2022, during which my research topics are deep learning testing and adversarial attacks. I received my BSc degree in software engineering from Beijing University of Posts and Telecommunications in 2017, ranking first and graduate with honors.
