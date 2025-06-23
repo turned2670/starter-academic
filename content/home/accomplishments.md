@@ -21,10 +21,9 @@ date_format = "Jan 2006"
 [[item]]    
   title = "Reviewer"    
   date_start = "2018-03-01"
-  date_end = ""
-  description = """Mainly for
-  * 软件学报 
-  * American Journal of Software Engineering and Applications (AJSEA)"""
+  date_end = "Present"
+  description = """
+  * Journal of Software"""
  
 
 +++
