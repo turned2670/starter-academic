@@ -1,12 +1,12 @@
----
-title: "RNN-Test: Towards Adversarial Testing for Recurrent Neural Network Systems"
-authors:
-- admin
-- Yue Zhao
-- Quan Zhang
-- Yu Jiang
-date: "2019-11-11"
-doi: ""
+#---
+#title: "RNN-Test: Towards Adversarial Testing for Recurrent Neural Network Systems"
+#authors:
+#- admin
+3- Yue Zhao
+#- Quan Zhang
+#- Yu Jiang
+#date: "2019-11-11"
+#doi: ""
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -15,25 +15,25 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+#publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+#publication: ""
+#publication_short: ""
 
-abstract: First step towards testing for majority sequential domains of RNN systems, i.e. tasks with sequential outputs without class labels
+#abstract: First step towards testing for majority sequential domains of RNN systems, #i.e. tasks with sequential outputs without class labels
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Source Themes
-featured: true
+#tags:
+#- Source Themes
+#featured: true
 
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: https://arxiv.org/abs/1911.06155
+#url_pdf: https://arxiv.org/abs/1911.06155
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
