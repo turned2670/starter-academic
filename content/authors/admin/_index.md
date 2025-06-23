@@ -24,9 +24,9 @@ bio: My research interests are  deep learning testing, adversarial testing of
 # Interests to show in About widget
 interests:
   - AI & LLM security
-    - Adversarial robustness
-    - Safety assessment
-    - content moderation
+  - Adversarial robustness
+  - LLM Safety assessment
+  - Unsafe data generation & moderation
   
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
