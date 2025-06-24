@@ -50,7 +50,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Senior research Engineer"
-  company = "Tencent"
+  company = "Huawei"
   location = "Beijing"
   date_start = "2022-08-21"
   date_end = "Present"
