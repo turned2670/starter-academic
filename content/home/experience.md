@@ -28,15 +28,37 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Ph.D. candidate"
+  title = "Ph.D. student"
   company = "Tsinghua University"
   company_url = "(Supervised by Yu Jiang and Jiaguang Sun)"
   location = "Beijing"
   date_start = "2017-09-01"
-  date_end = ""
-  description = """Core works include:    
-  * RNN-Test: Design the testing framework for Recurrent Neural Networks (RNN), the first step towards sequential tasks like language modelling, speech recognition, etc. 
-  * DLFuzz: Design the deep learning testing framework, combining knowledge of fuzz testing and producing more adversarial input images with higher neuron coverage w.r.t. DeepXplore (SOSP’17)."""
-  
+  date_end = "2022-07-01"
+  description = """Presentative works:    
+  * RNN-Test: a general-purpose adversarial testing framework for seq2seq tasks in RNN systems. It produces adversarial examples by maximizing RNN state inconsistency against their inner dependencies. We also design two state-based coverage metrics for RNNs, enabling RNN-Test to generate adversarial examples and improve the coverage.
+  * DLFuzz: the first DL testing framework combined with fuzz testing. DLFuzz mutates seed inputs to maximize neuron coverage and the prediction difference between original and mutated inputs, with multiple neuron selection strategies. Its paper published on ESEC/FSE 2018 is widely recognized with >300 citations."""
+
+[[experience]]
+  title = "Research intern"
+  company = "Tencent"
+  location = "Beijing"
+  date_start = "2021-04-21"
+  date_end = "2021-12-01"
+  description = """
+  * Train in-vehicle speech enhancement model, where audios with noise (particularly in-vehicle situation) will sound clear after speech enhancement.
+  """
+
+[[experience]]
+  title = "Senior research Engineer"
+  company = "Tencent"
+  location = "Beijing"
+  date_start = "2022-08-21"
+  date_end = "Present"
+  description = """Core works:
+  * Train a specialized LLM to assess response safety, evaluating whether outputs from tested LLMs meet predefined safety criteria when handling unsafe queries.
+  * Detect deepfake and AIGC images & videos with classifiers of multiple features, as well as reconstruction-based methods utilizing diffusion models.
+  * Construct unsafe multimodal data generation pipeline and design a semantics-aware moderation framework with MLLMs.
+  * Defend black-box query attack on face recognition with probabilistic fingerprints.
+  """
 
 +++
