@@ -25,7 +25,7 @@ bio: My research interests are  deep learning testing, adversarial testing of
 interests:
   - AI & LLM security
   - Adversarial robustness
-  - LLM Safety assessment
+  - LLM safety assessment
   - Unsafe data generation & moderation
   
 # Social/Academic Networking
