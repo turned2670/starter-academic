@@ -7,11 +7,6 @@
   name = "Biography"
   url = "#about"
   weight = 10
-
-[[main]]
-  name = "Preprints"
-  url = "#preprints"
-  weight = 20
   
  [[main]]
   name = "Publications"
