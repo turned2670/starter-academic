@@ -23,7 +23,7 @@ publication_types: ["2"]
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: 
+abstract: A general-purpose adversarial testing framework for seq2seq tasks in RNN systems, demonstrated its effectiveness over various tasks including language model, spell checker, speech recognition and image classification. 
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
