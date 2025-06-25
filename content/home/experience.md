@@ -53,7 +53,7 @@ date_format = "Jan 2006"
   company = "Huawei"
   location = "Beijing"
   date_start = "2022-08-21"
-  date_end = "Present"
+  date_end = ""
   description = """Core works:
   * Train a specialized LLM to assess response safety, evaluating whether outputs from tested LLMs meet predefined safety criteria when handling unsafe queries.
   * Detect deepfake and AIGC images & videos with classifiers of multiple features, as well as reconstruction-based methods utilizing diffusion models.
