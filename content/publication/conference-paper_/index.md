@@ -21,8 +21,8 @@ publishDate: "2019-05-24T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In 2019 IEEE/ACM 41st International Conference on Software Engineering
+publication_short: In ICSE
 
 abstract: Identify vulnerability-prone functions with program complexity analysis
 
