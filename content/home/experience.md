@@ -24,8 +24,7 @@ date_format = "Jan 2006"
   location = "Beijing"
   date_start = "2013-09-01"
   date_end = "2017-07-01"
-  description = """
-
+  description = """Main achievements:
   * GPA: 3.9/4.0, Rank: 1/123
   * National scholarship
   * Meritorious Winner of MCM/ICM
@@ -40,9 +39,7 @@ date_format = "Jan 2006"
   location = "Singapore"
   date_start = "2017-01-05"
   date_end = "2017-05-24"
-  description = """
-  
-  * Leopard: Extract and assess program metrics of tested software programs to identify vulnerability-prone functions and CVEs, assisted with the fuzzing tools.
+  description = """Static program analysis: Extract and assess program metrics of tested software programs to identify vulnerability-prone functions and CVEs, assisted with fuzzing tools.
   """
 
 [[experience]]
@@ -62,8 +59,7 @@ date_format = "Jan 2006"
   location = "Beijing"
   date_start = "2021-04-21"
   date_end = "2021-12-01"
-  description = """
-  * Train in-vehicle speech enhancement model, where audios with noise (particularly in-vehicle situation) will sound clear after speech enhancement.
+  description = """Train in-vehicle speech enhancement model, where audios with noise (particularly in-vehicle situation) will sound clear after speech enhancement.
   """
 
 [[experience]]
