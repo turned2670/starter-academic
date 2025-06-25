@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   location = "Singapore"
   date_start = "2017-01-05"
   date_end = "2017-05-24"
-  description = """Static program analysis: Extract and assess program metrics of tested software programs to identify vulnerability-prone functions and CVEs, assisted with fuzzing tools.
+  description = """Static program analysis: extract and assess program metrics of tested software programs to identify vulnerability-prone functions and CVEs, assisted with fuzzing tools.
   """
 
 [[experience]]
@@ -51,7 +51,8 @@ date_format = "Jan 2006"
   date_end = "2022-07-01"
   description = """Representative works:    
   * RNN-Test: a general-purpose adversarial testing framework for seq2seq tasks in RNN systems. It produces adversarial examples by maximizing RNN state inconsistency against their inner dependencies. We also design two state-based coverage metrics for RNNs, enabling RNN-Test to generate adversarial examples and improve the coverage.
-  * DLFuzz: the first DL testing framework combined with fuzz testing. DLFuzz mutates seed inputs to maximize neuron coverage and the prediction difference between original and mutated inputs, with multiple neuron selection strategies. Its paper published on ESEC/FSE 2018 is widely recognized with >300 citations."""
+  * DLFuzz: the first DL testing framework combined with fuzz testing. DLFuzz mutates seed inputs to maximize neuron coverage and the prediction difference between original and mutated inputs, with multiple neuron selection strategies. Its paper published on ESEC/FSE 2018 is widely recognized with >300 citations.
+"""
 
 [[experience]]
   title = "Research intern"
