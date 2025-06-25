@@ -22,7 +22,7 @@ publication_types: ["2"]
 publication: "*IEEE Transactions on Network Science and Engineering, 1*(1)"
 publication_short: "TNSE"
 
-abstract: 
+abstract: Comprehensive journal version of DLFuzz
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
