@@ -21,8 +21,8 @@ publishDate: "018-05-23T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In IEEE Transactions on Reliability
+publication_short: In TIR
 
 abstract: Query-efficient black-box attack for video classification
 
