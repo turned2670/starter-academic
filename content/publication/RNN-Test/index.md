@@ -20,8 +20,8 @@ publishDate: "021-09-21T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In IEEE Transactions on Software Engineering
+publication_short: In TSE
 
 abstract: A general-purpose adversarial testing framework for seq2seq tasks in RNN systems, demonstrated its effectiveness over various tasks including language model, spell checker, speech recognition and image classification. 
 
