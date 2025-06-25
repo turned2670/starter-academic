@@ -28,6 +28,8 @@ date_format = "Jan 2006"
 
 [[item]]    
   title = "Teaching assistant"    
+  date_start = "2017-09-01"
+  date_end = "2020-12-01"
   description = """In Tsinghua University:
   * Fundamentals of Computer Culture       (Fall 2019, Fall 2020)
   * Operating System       (Spring 2018, Fall 2018, Spring 2019)
