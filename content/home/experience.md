@@ -18,6 +18,21 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Undergraduate student"
+  company = "Beijing University of Posts and Telecommunications"
+  company_url = ""
+  location = "Beijing"
+  date_start = "2013-09-01"
+  date_end = "2017-07-01"
+  description = """
+  * GPA: 3.9/4.0, Rank: 1/123
+  * National scholarship
+  * Meritorious Winner of MCM/ICM
+  * Second Prize in Intel Cup National Collegiate Software Innovation Contest
+  * First Prize in Student Innovation Contest
+  """
+
+[[experience]]
   title = "Research assistant"
   company = "Nanyang Technological University"
   company_url = "(Supervised by Yang Liu)"
@@ -34,7 +49,7 @@ date_format = "Jan 2006"
   location = "Beijing"
   date_start = "2017-09-01"
   date_end = "2022-07-01"
-  description = """Presentative works:    
+  description = """Representative works:    
   * RNN-Test: a general-purpose adversarial testing framework for seq2seq tasks in RNN systems. It produces adversarial examples by maximizing RNN state inconsistency against their inner dependencies. We also design two state-based coverage metrics for RNNs, enabling RNN-Test to generate adversarial examples and improve the coverage.
   * DLFuzz: the first DL testing framework combined with fuzz testing. DLFuzz mutates seed inputs to maximize neuron coverage and the prediction difference between original and mutated inputs, with multiple neuron selection strategies. Its paper published on ESEC/FSE 2018 is widely recognized with >300 citations."""
 
@@ -49,7 +64,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Senior research Engineer"
+  title = "Senior research engineer"
   company = "Huawei"
   location = "Beijing"
   date_start = "2022-08-21"
