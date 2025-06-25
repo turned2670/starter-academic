@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]    
   title = "Reviewer"    
   date_start = "2018-03-01"
-  date_end = "Present"
+  date_end = ""
   description = """
   * Journal of Software
   """
