@@ -18,8 +18,7 @@ authors:
   - admin
   
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are  deep learning testing, adversarial testing of
-  recurrent neural networks and audio adversarial attacks
+bio: My research interests are AI & LLM security, adversarial robustness, safety assessment, deep learning testing, etc.
 
 # Interests to show in About widget
 interests:
