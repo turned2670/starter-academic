@@ -22,7 +22,7 @@ publication_types: ["1"]
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: the first fuzz testing framework in deep learning testing. 
+abstract: The first fuzz testing framework in deep learning testing. 
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
