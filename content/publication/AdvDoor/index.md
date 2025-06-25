@@ -21,8 +21,8 @@ publishDate: "018-08-21T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In ACM SIGSOFT International Symposium on Software Testing and Analysis
+publication_short: In ISSTA
 
 abstract: Inject backdoor attacks with adversarial perturbations
 
