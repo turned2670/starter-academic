@@ -19,8 +19,8 @@ publishDate: "018-11-18T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering
+publication_short: In ESEC/FSE
 
 abstract: The first fuzz testing framework in deep learning testing. 
 
