@@ -58,4 +58,5 @@ email: ""
 user_groups:
   - Researchers
 ---
-My name is Jianmin Guo (郭建敏). I am a senior research engineer of 2012 Lab, Huawei in Beijing, focusing on AI/LLM security research and its applications, such as adversarial robustness, safety assessment and content moderation, etc. I obtained my Ph.D. degree at School of Software, Tsinghua University in 2022, during which my research topics are deep learning testing and adversarial attacks. I received my BSc degree in software engineering from Beijing University of Posts and Telecommunications in 2017, ranking first and graduate with honors.
+My name is Jianmin Guo (郭建敏). I am a senior research engineer of 2012 Lab, Huawei in Beijing, focusing on AI/LLM security research and its applications, such as adversarial robustness, safety assessment and content moderation, etc. I obtained my Ph.D. degree at School of Software, Tsinghua University in 2022, during which my research topics are deep learning testing and adversarial attacks. I received my BSc degree in software engineering from Beijing University of Posts and Telecommunications in 2017, ranking first and graduate with honors. 
+In my future work, I will devote myself to high-value research projects and make impactful contributions.
