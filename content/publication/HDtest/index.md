@@ -18,8 +18,8 @@ publishDate: "018-02-21T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In The 58th Design Automation Conference
+publication_short: In DAC
 
 abstract: Fuzz testing framework for brain-inspired hyperdimensional computing
 
